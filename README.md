@@ -37,7 +37,6 @@ Click on the links below to view sample screenshots from the live platform:
 ### 🙅 User Dashboard Restriction (Not an Admin)
 ![Restricted Dashboard for User](screenshot/Screenshot%202025-07-27%20203700.png)
 
-🔄 Replace the above links with actual screenshots hosted on GitHub, Cloudinary, Imgur, or your own domain.
 
 🏗 Tech Stack
 Frontend
@@ -54,7 +53,6 @@ Mongoose
 MongoDB Atlas
 Authentication & Security
 JWT (JSON Web Token)
-
 Bcrypt for password hashing
 Middleware for route protection
 
@@ -97,8 +95,6 @@ npm run dev
 
 🔒 Authentication Flow
 New users and admins register/login using /auth endpoints
-
 Tokens stored securely and verified with middleware
-
 Protected routes include /admin, /create-post, /dashboard
 
