@@ -26,12 +26,16 @@ Built using a React frontend and a Node.js + Express backend, this application i
 🖼 UI Snapshots
 Click on the links below to view sample screenshots from the live platform:
 
-📸 Page	Screenshot
-🏠 Home Page	View Screenshot
-📝 Single Blog Post	View Screenshot
-👨‍💻 Admin Dashboard	View Screenshot
-✍️ Post Editor	View Screenshot
-👤 Admin Profile	View Screenshot
+## 📸 Screenshots
+
+### 🏠 Homepage (Logged in as Admin)
+![Admin Home](screenshot/Screenshot%202025-07-27%20203104.png)
+
+### 📊 Admin Dashboard
+![Admin Dashboard](screenshot/Screenshot%202025-07-27%20203114.png)
+
+### 🙅 User Dashboard Restriction (Not an Admin)
+![Restricted Dashboard for User](screenshot/Screenshot%202025-07-27%20203700.png)
 
 🔄 Replace the above links with actual screenshots hosted on GitHub, Cloudinary, Imgur, or your own domain.
 
